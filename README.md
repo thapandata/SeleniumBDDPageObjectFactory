@@ -5,7 +5,7 @@
 Technology Stack:
 1. Java as Programming Language
 2. Cucumber for Behavior Driven Development
-3. Selenum Page Object Factory
+3. Selenum Page Object Factory to create object repository in Page Object Model concept
 4. Apache POI for Excel Read/Wrte
 5. BDD Data Driven Framework
 6. Maven for Dependency Management
